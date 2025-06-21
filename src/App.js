@@ -14,7 +14,7 @@ const App = () => {
       if (prevItems.find((i) => i.title === item.title)) {
         return prevItems;
       }
-      return [...prevItems, item];
+      return [...prevItems, item];gi
     });
   };
 
