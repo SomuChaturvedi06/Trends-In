@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    background-color: grey;
+}
+.zoom-header {
+  background-color: #ffffff;
+  transition: all 0.3s ease;
+  z-index: 999;
+}
